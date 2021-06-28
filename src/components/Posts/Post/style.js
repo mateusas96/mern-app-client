@@ -49,4 +49,13 @@ export default makeStyles({
 		display: 'flex',
 		justifyContent: 'space-between',
 	},
+	likeCount: {
+		position: 'relative',
+		top: '-8px',
+		right: '3px',
+		marginRight: '3px',
+	},
+	message: {
+		wordBreak: 'break-word',
+	}
 });
